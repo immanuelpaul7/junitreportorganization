@@ -12,7 +12,7 @@ import org.junit.Test;
 
 public class JUnitReportGeneration2Test {
 
-	private String developer = "Vinod";
+	private String developer = "Paul";
 
 	@Test
 	public void instanceOfTest1() {
